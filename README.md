@@ -1,5 +1,5 @@
 ### <a href="https://github.com/Ibaad-AhmedAjaz/Jobby-Web-App-ReactJs.git">Jobby App</a>
-LIVE: ibaadapp.ccbp.tech
+LIVE: https://ibaadapp.ccbp.tech
 
 #### Login Details:
 
