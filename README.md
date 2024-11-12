@@ -1,6 +1,11 @@
 ### <a href="https://github.com/Ibaad-AhmedAjaz/Jobby-Web-App-ReactJs.git">Jobby App</a>
 LIVE: https://enhancement-of-jobby-app-lake.vercel.app/
 
+#### Login Details:
+
+- ##### username: rahul
+- ##### password: rahul@2021
+
 #### Enhancement Functionalities
 - Implement a location-based filter by adding checkboxes labeled with the following locations: Hyderabad, Bangalore, Chennai, Delhi, and Mumbai. Position these checkboxes below the Salary Range filter on the sidebar in the Jobs Route.
 - When the checkboxes labeled with locations are checked, display jobs corresponding to the selected locations from the checkboxes, while also maintaining any previously applied filters such as Type of Employment and Salary Range.
@@ -17,7 +22,4 @@ LIVE: https://enhancement-of-jobby-app-lake.vercel.app/
 </a>
 <br>
 
-#### Login Details:
 
-- ##### username: rahul
-- ##### password: rahul@2021
